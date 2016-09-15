@@ -1,4 +1,4 @@
-Hello!
-Second
-print("Hello")
-print("Hello")
+Hello;!
+Second;
+print("Hello;")
+print("Hello;")

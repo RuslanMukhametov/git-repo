@@ -1,3 +1,4 @@
 Hello!
 Second
 print("Hello")
+print("Hello")

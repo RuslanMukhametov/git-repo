@@ -1,1 +1,2 @@
 prit("Goodbye world")
+prit("Goodbye")
